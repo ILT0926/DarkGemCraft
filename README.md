@@ -1,5 +1,9 @@
 # 暗宝石工艺(DarkGemCraft)
 一个Minecraft Fabric模组，添加了新的工具(镐、斧、剑、锄、铲)，合成材料(暗宝石、暗宝石碎片)。
+## 关于作者
+-GitHub [ILT0926]
+-MC百科 [9TZ]
+本人在GitHub和MC百科使用的昵称不同，但均为同一作者。
 ## 支持版本
 -Minecraft 1.21.1
 -Fabric Loader 0.19.3
@@ -9,3 +13,4 @@
 ## 下载方式
 [123云盘](https://1814942009.share.123pan.cn/123pan/1JBeVv-na2Kd)
 [MC百科]
+
