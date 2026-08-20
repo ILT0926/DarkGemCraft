@@ -1,16 +1,20 @@
 # 暗宝石工艺(DarkGemCraft)
 一个Minecraft Fabric模组，添加了新的工具(镐、斧、剑、锄、铲)，合成材料(暗宝石、暗宝石碎片)。
-## 关于作者
+A Minrcraft Fabric Mod that adds dark-themed gems and equipment
+## 关于作者 About the Author
 -GitHub [ILT0926]
 -MC百科 [9TZ]
 本人在GitHub和MC百科使用的昵称不同，但均为同一作者。
-## 支持版本
+The author uses different nicknames on GitHub and MCMod, but they are the same person
+## 支持版本 Supported Versions
 -Minecraft 1.21.1
 -Fabric Loader 0.19.3
-## 新增合成配方
+## 新增合成配方 new recipes
 -暗宝石碎片通过使用熔炉熔炼黑曜石获得(也支持高炉)，在工作台中9个暗宝石碎片即可合成1的暗宝石
 -镐、斧、剑、锄、铲等工具的配方与原版一致，但需注意镐和斧需要暗宝石才可合成
-## 下载方式
+Dark Gem Shards are obtained by smelting Obsidian in a furnace (blast furnace supported), 9 shards craft into 1 Dark Gem
+Tools (pickaxe, axe, sword, hoe, shovel) follow vanilla patterns, but pickaxes and axes require Dark Gems
+## 下载方式 Downloads
 [123云盘](https://1814942009.share.123pan.cn/123pan/1JBeVv-na2Kd)
 [MC百科]
-
+[GitHub Releases](https://github.com/ILT0926/DarkGemCraft/releases/latest)
