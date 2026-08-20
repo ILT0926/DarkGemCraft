@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": { "item": "new:dark_gem" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "pattern": [
+    "GGG",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "id": "new:dark_pickaxe"
+  }
+}

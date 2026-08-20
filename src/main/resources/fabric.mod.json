@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "new",
+	"version": "${version}",
+	"name": "暗宝石工艺",
+	"icon": "assets/new/icon.png",
+	"description": "添加了新的武器和工具",
+	"authors": [
+		"9TZ"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/new/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.ssq.MyMod"
+		],
+		"fabric-datagen": [
+			"me.ssq.MyModDataGenerator"
+		]
+
+	},
+	
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

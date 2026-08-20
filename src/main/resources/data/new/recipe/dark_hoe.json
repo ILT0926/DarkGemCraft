@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": { "item": "new:dark_shard" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "pattern": [
+    "GG ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "id": "new:dark_hoe"
+  }
+}
